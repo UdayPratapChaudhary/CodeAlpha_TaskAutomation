@@ -1,0 +1,5 @@
+Contact examples:
+alex@example.com
+support@codealpha.example
+Please also contact Alex at alex@example.com.
+Python practice: student123@gmail.com
